@@ -17,5 +17,9 @@ Javascript sudah terinstall dan otomatis dapat digunakan pada browser
 - [09 Events JavaScript](./[09]-Events_JavaScript.md)
 - [10 String JavaScript](./[10]-String_JavaScript.md)
 - [11 String Methods JavaScript](./[11]-String_Methods_JavaScript.md)
+- [12 Number Methods JavaScript](./[12]-Number_Methods_JavaScript.md)
+- [13 Array JavaScript](./[13]-Array_JavaScript.md)
+- [14 Array Methods JavaScript](./[14]-Array_Method_JavaScript.md)
+- [15 Math Function JavaScript](./[15]-Math_Function_JavaScript.md)
 
 [WIP]
